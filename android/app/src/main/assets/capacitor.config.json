@@ -1,0 +1,8 @@
+{
+  "appId": "com.chadwick.music",
+  "appName": "Music",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
